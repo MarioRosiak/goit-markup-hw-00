@@ -1,0 +1,201 @@
+body {
+    font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 16px;
+        background: #E5E5E5;
+}
+header {
+    width: 1600px;
+
+    background: #FFFFFF;
+}
+main {
+    width: 1600px;
+    background: #FFFFFF;
+}
+.item-web {
+    font-weight: 700;
+    font-size: 26px;
+    color: #2196F3;
+}
+
+.studio-item {
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: #000000;
+}
+.webstudio-item {
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: #2196F3;
+}
+.studio-item-bottom {
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: #ffffff;
+}
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+a [href]{
+cursor: pointer;
+}
+h1 {
+    font-weight: 900;
+    font-size: 44px;
+  }
+
+h2 {
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 14px;
+ }
+.link {
+    color: #212121;
+    font-weight: 500;
+    font-size: 14px;
+}
+.link:hover , .link:focus {
+    color: #2196F3;
+}
+.mail-item {
+    font-weight: 500;
+    font-size: 14px;
+    color: #757575;
+}
+.mail-tel-item {
+    font-weight: 500;
+    font-size: 14px;
+    color: #757575;
+}
+.mail-tel-item:hover, .mail-tel-item:focus{
+color: #2196F3;
+}
+.bisnes-item {
+    width: 1600px;
+    height: 600px;
+    background: #2F303A;
+}
+.text-item {
+    font-weight: 900;
+    font-size: 44px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.txt-main {
+    font-weight: 700;
+    color: #212121;
+}
+.btn-services {
+    background-color: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+}
+.main-txt-body {
+    font-size: 14px;
+    color: #757575;
+}
+.box-team-first {
+    background: #FFFFFF;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+}
+.txt-name {
+    font-weight: 500;
+    font-size: 16px;
+}
+.txt-position {
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+.main-team {
+    background-color: #F5F4FA;
+}
+.addr-item-home {
+    width: 1600px;
+}
+.footer-adress {
+    width: 1600;
+    background: #2F303A;
+}
+.mail-tel-item-bottom {
+    font-weight: 400;
+    font-size: 14px;
+    color: #ffffff99;
+}
+.addr-street {
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.web-item-bottom {
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    color: #2196F3;
+}
+.btn-first {
+    position: absolute;
+    background-color: #F5F4FA;
+    border-radius: 4px;
+    border: 0;
+}
+.btn-second {
+    position: absolute;
+    background: #F5F4FA;
+    border-radius: 4px;
+    border: 0;
+}
+
+.btn-third {
+    position: absolute;
+    background: #F5F4FA;
+    border-radius: 4px;
+    border: 0;
+}
+
+.btn-fourth {
+    position: absolute;
+    background: #F5F4FA;
+    border-radius: 4px;
+    border: 0;
+}
+
+.btn-fifth {
+    position: absolute;
+    background: #F5F4FA;
+    border-radius: 4px;
+    border: 0;
+}
+.btn-first:hover,
+.btn-second:hover,
+.btn-third:hover,
+.btn-fourth:hover,
+.btn-fifth:hover {
+    background-color: #2196F3;
+    color: #FFFFFF
+}
+.menu-box-name {
+    font-weight: 700;
+    font-size: 18px;
+    color: #212121;
+}
+.menu-box-description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #757575;
+}
